@@ -2,7 +2,7 @@
 
 Curso basico de programacion en python
 
-![Logo de python](Images\python.png)
+![Logo de python](https://github.com/CarlosLeyequien/IAWizards-Python-basics/blob/main/Images/python.png)
 
 
 **Requisitos**
